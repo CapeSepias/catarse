@@ -62,7 +62,7 @@ gem 'high_voltage'
 
 # Authentication and Authorization
 gem 'simple_token_authentication', '~> 1.0' # see semver.org
-gem 'omniauth', '~> 1.3.2'
+gem 'omniauth', '~> 2.0.0'
 gem 'omniauth-facebook'
 gem 'koala'
 gem 'devise', '4.7.2'
